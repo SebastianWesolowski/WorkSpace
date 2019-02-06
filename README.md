@@ -35,7 +35,7 @@ This document describe configuration my Work machine.
   - FileZilla
   - ImageOptim
   - Google Chrome
-- PLugins Visual Studio Code
+- Plugins Visual Studio Code
 
 ## About aplication
 
