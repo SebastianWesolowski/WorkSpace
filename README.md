@@ -42,7 +42,7 @@ This document describe configuration my Work machine.
 
 ### Paste
 
-![](https://pasteapp.me/images/paste-mac.png | width=100)
+![](https://pasteapp.me/images/paste-mac.png)
 
 | Descryption | Link |
 | --- | --- |
