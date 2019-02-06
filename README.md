@@ -1,6 +1,6 @@
 # My workspace Mac
 
- List aplication on my workspace machine.
+This document describe configuration my Work machine. 
 
 ## List Contents inventory
 
@@ -8,11 +8,13 @@
 
 ### Aplication
 
+ List aplication on my workspace machine.
+
 - Text Editor
   - Microsoft Word
   - Microsoft OneNote
 - Utility
-  - Paste
+  - [Paste](#paste])
   - Timing
   - 1Password
   - CloudMounter
@@ -34,3 +36,18 @@
   - ImageOptim
   - Google Chrome
 - PLugins Visual Studio Code
+
+## About aplication
+
+### Paste
+
+![](/image/paste-mac.png)
+
+| Descryption | Link |
+| --- | --- |
+| Website | [pasteapp.me](https://pasteapp.me/)  |
+| Direct download adress | [Download Paste](https://pasteapp.me/mac/download) |
+
+#### Descryption
+
+Paste is a smart clipboard and snippets manager
