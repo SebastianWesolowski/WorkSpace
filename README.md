@@ -36,6 +36,7 @@ This document describe configuration my Work machine.
   - ImageOptim
   - Google Chrome
 - Plugins Visual Studio Code
+  - GitLens
 
 ## About aplication
 
