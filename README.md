@@ -62,12 +62,12 @@ brew install gnupg
 https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH
 brew install zsh zsh-completions
 
-#Configuring VS Code 
+#Configuring VS Code
 
 https://medium.com/@ozzievee/configuring-vs-code-integrated-terminal-to-use-oh-my-zsh-f545de1545c1
 
 ```shell
-// Use ZSH as the integrated terminal 
+// Use ZSH as the integrated terminal
 shell."terminal.integrated.shell.osx": "zsh",
 
 //Use ZSH as the integrated terminal
