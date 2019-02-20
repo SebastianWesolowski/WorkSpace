@@ -42,8 +42,65 @@ First mailstone:
   - FileZilla
   - ImageOptim
   - Google Chrome
-- Plugins Visual Studio Code
-  - GitLens
+    <!-- - Plugins Visual Studio Code
+  - GitLens -->
+
+Real install
+
+- 1Password 7.app
+- Adobe Acrobat DC
+- Adobe After Effects CC 2019
+- Adobe Illustrator CC 2019
+- Adobe InDesign CC 2019
+- Adobe Media Encoder CC 2019
+- Adobe Photoshop CC 2019
+- Airmail Beta.app
+- Alfred 3.app
+- Automator.app
+- Bear.app
+- Cappuccino.app
+- CloudMounter.app
+- Discord.app
+- Droplr.app
+- EasyFind.app
+- FileZilla.app
+- Firefox.app
+- Focus.app
+- Google Chrome Canary.app
+- Google Chrome.app
+- ImageOptim.app
+- Keka.app
+- MAMP PRO.app
+- Magnet.app
+- Microsoft Excel.app
+- Microsoft OneNote.app
+- Microsoft Word.app
+- Money Pro.app
+- MySQLWorkbench.app
+- OmniFocus.app
+- Paste.app
+- Sketch.app
+- Slack.app
+- SnippetsLab.app
+- Sourcetree.app
+- Spotify.app
+- TeamViewer.app
+- TogglDesktop.app
+- Trello.app
+- UXPin.app
+- Unclutter.app
+- Visual Studio Code.app
+- iTerm.app
+
+TEST INSTAL
+_-_ MindNode.app
+_-_ PhpStorm.app
+_-_ Reeder.app
+_-_ Screens 4.app
+_-_ StrikeBeta.app
+_-_ WebStorm.app
+_-_ Workspaces.app
+_-_ XMind ZEN.app
 
 <!-- ### About aplication
 
