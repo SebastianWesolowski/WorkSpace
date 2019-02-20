@@ -2,11 +2,18 @@
 
 This document describe configuration my Work machine.
 
-## List Contents inventory
+## MVC
+
+Descryption my default configuration on work machine.
+First mailstone:
+
+- List aplication on my workspace machine.
+
+### List Contents inventory
 
 - [Application](#aplication])
 
-### Aplication
+#### Aplication
 
  List aplication on my workspace machine.
 
@@ -38,9 +45,9 @@ This document describe configuration my Work machine.
 - Plugins Visual Studio Code
   - GitLens
 
-## About aplication
+### About aplication
 
-### Paste
+#### Paste
 
 ![](https://pasteapp.me/images/paste-mac.png)
 
@@ -49,11 +56,12 @@ This document describe configuration my Work machine.
 | Website                | [pasteapp.me](https://pasteapp.me/)                |
 | Direct download adress | [Download Paste](https://pasteapp.me/mac/download) |
 
-#### Descryption
+##### Descryption
 
 Paste is a smart clipboard and snippets manager
 
-#Brew
+## Brew
+
 tag: git
 
 https://help.github.com/articles/about-commit-signature-verification/
@@ -62,7 +70,7 @@ brew install gnupg
 https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH
 brew install zsh zsh-completions
 
-#Configuring VS Code
+## Configuring VS Code
 
 https://medium.com/@ozzievee/configuring-vs-code-integrated-terminal-to-use-oh-my-zsh-f545de1545c1
 
@@ -74,7 +82,7 @@ shell."terminal.integrated.shell.osx": "zsh",
 "terminal.integrated.shell.osx": "/usr/local/bin/zsh"
 ```
 
-#Google Chrome Configuration
+# Google Chrome Configuration
 
 https://github.com/jaysuz/material-dev-tools
 
