@@ -45,7 +45,7 @@ First mailstone:
 - Plugins Visual Studio Code
   - GitLens
 
-### About aplication
+<!-- ### About aplication
 
 #### Paste
 
@@ -88,4 +88,4 @@ https://github.com/jaysuz/material-dev-tools
 
 ```
 chrome://flags/#enable-devtools-experiments
-```
+``` -->
