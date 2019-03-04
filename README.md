@@ -8,6 +8,7 @@ Descryption my default configuration on work machine.
 First mailstone:
 
 - List aplication on my workspace machine.
+- Add Milestone map
 
 ### List Contents inventory
 
@@ -48,12 +49,13 @@ First mailstone:
 Real install
 
 - 1Password 7.app
-- Adobe Acrobat DC
-- Adobe After Effects CC 2019
-- Adobe Illustrator CC 2019
-- Adobe InDesign CC 2019
-- Adobe Media Encoder CC 2019
-- Adobe Photoshop CC 2019
+- Adobe
+  - Acrobat DC
+  - After Effects CC 2019
+  - Illustrator CC 2019
+  - InDesign CC 2019
+  - Media Encoder CC 2019
+  - Photoshop CC 2019
 - Airmail Beta.app
 - Alfred 3.app
 - Automator.app
@@ -92,7 +94,7 @@ Real install
 - Visual Studio Code.app
 - iTerm.app
 
-TEST INSTAL
+<!-- TEST INSTAL
 _-_ MindNode.app
 _-_ PhpStorm.app
 _-_ Reeder.app
@@ -100,7 +102,7 @@ _-_ Screens 4.app
 _-_ StrikeBeta.app
 _-_ WebStorm.app
 _-_ Workspaces.app
-_-_ XMind ZEN.app
+_-_ XMind ZEN.app -->
 
 <!-- ### About aplication
 
