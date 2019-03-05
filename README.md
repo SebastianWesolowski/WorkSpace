@@ -4,6 +4,10 @@ This document describe configuration my Work machine.
 
 ## MVC
 
+### Milestone Map
+
+The milestone map is built using [Draw.io](https://www.draw.io). Project file can be found at `Work-Space-milestone-map.xml` file.
+
 Descryption my default configuration on work machine.
 First mailstone:
 
