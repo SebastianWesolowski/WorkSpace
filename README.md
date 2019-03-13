@@ -4,6 +4,9 @@ This document describe configuration my Work machine.
 
 ## MVC
 
+    * Write list aplication on workspace machine
+    * Collect link application
+
 ### Milestone Map
 
 The milestone map is built using [Draw.io](https://www.draw.io). Project file can be found at `Work-Space-milestone-map.xml` file.
@@ -22,91 +25,55 @@ First mailstone:
 
  List aplication on my workspace machine.
 
-- Text Editor
-  - Microsoft Word
-  - Microsoft OneNote
-- Utility
-  - [Paste](#paste])
-  - Timing
-  - 1Password
-  - CloudMounter
-  - Focus
-- Expand System function
-  - iZip
-  - EasyFind
-  - Magnet
-  - Droplr
-  - Alfred 3
-- Work Helper
-  - SnippetsLab
-  - TogglDesktop
 - Develop
-  - Visual Studio Code
-  - MySQLWorkbench
-  - Sourcetree
-  - FileZilla
-  - ImageOptim
-  - Google Chrome
-    <!-- - Plugins Visual Studio Code
-  - GitLens -->
-
-Real install
-
-- 1Password 7.app
-- Adobe
-  - Acrobat DC
-  - After Effects CC 2019
-  - Illustrator CC 2019
-  - InDesign CC 2019
-  - Media Encoder CC 2019
-  - Photoshop CC 2019
-- Airmail Beta.app
-- Alfred 3.app
-- Automator.app
-- Bear.app
-- Cappuccino.app
-- CloudMounter.app
-- Discord.app
-- Droplr.app
-- EasyFind.app
-- FileZilla.app
-- Firefox.app
-- Focus.app
-- Google Chrome Canary.app
-- Google Chrome.app
-- ImageOptim.app
-- Keka.app
-- MAMP PRO.app
-- Magnet.app
-- Microsoft Excel.app
-- Microsoft OneNote.app
-- Microsoft Word.app
-- Money Pro.app
-- MySQLWorkbench.app
-- OmniFocus.app
-- Paste.app
-- Sketch.app
-- Slack.app
-- SnippetsLab.app
-- Sourcetree.app
-- Spotify.app
-- TeamViewer.app
-- TogglDesktop.app
-- Trello.app
-- UXPin.app
-- Unclutter.app
-- Visual Studio Code.app
-- iTerm.app
-
-<!-- TEST INSTAL
-_-_ MindNode.app
-_-_ PhpStorm.app
-_-_ Reeder.app
-_-_ Screens 4.app
-_-_ StrikeBeta.app
-_-_ WebStorm.app
-_-_ Workspaces.app
-_-_ XMind ZEN.app -->
+  - FileZilla.app
+  - Firefox.app
+  - Google Chrome Canary.app
+  - Google Chrome.app
+  * MAMP PRO.app
+  * MySQLWorkbench.app
+  - Sketch.app
+  * Sourcetree.app
+  - UXPin.app
+  - Visual Studio Code.app
+  - iTerm.app
+- Utility
+  - 1Password 7.app
+  - Airmail Beta.app
+  - Alfred 3.app
+  - Automator.app
+  - CloudMounter.app
+  - Discord.app
+  - Droplr.app
+  - EasyFind.app
+  - Focus.app
+  - ImageOptim.app
+  - Keka.app
+  - Magnet.app
+  - Money Pro.app
+  - OmniFocus.app
+  - Paste.app
+  - Slack.app
+  - SnippetsLab.app
+  - TeamViewer.app
+  - TogglDesktop.app
+  - Trello.app
+  - Unclutter.app
+  - Adobe
+    - Acrobat DC
+    - After Effects CC 2019
+    - Illustrator CC 2019
+    - InDesign CC 2019
+    - Media Encoder CC 2019
+    - Photoshop CC 2019
+- Fun
+  - Cappuccino.app
+  - Spotify.app
+- Work Helper
+  - Bear.app
+  - Microsoft Excel.app
+  - Microsoft OneNote.app
+  - Microsoft Word.app
 
 <!-- ### About aplication
 
