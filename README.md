@@ -2,26 +2,37 @@
 
 This document describe configuration my Work machine.
 
-## MVC
-
-    * Write list aplication on workspace machine
-    * Collect link application
-
-### Milestone Map
-
-The milestone map is built using [Draw.io](https://www.draw.io). Project file can be found at `Work-Space-milestone-map.xml` file.
-
-Descryption my default configuration on work machine.
-First mailstone:
-
-- List aplication on my workspace machine.
-- Add Milestone map
-
 ### List Contents inventory
 
-- [Application](#aplication])
+- [Plan development idea](Plan%20development%20idea)
+  - [MVP](MVP)
+  - [Milestone Map](Milestone%20Map)
+    - [Build milestone Map](Build%20milestone%20Map)
+  - [Feature Idea](Feature%20Idea)
+- [Aplication](Aplication)
 
-#### Aplication
+# Plan development idea
+
+![](image/milestone-map.png)
+
+## MVP
+
+- Write list aplication on my workspace machine
+- Collect link application
+- Write simple use application in workflow
+
+## Milestone Map
+
+### Build milestone Map
+
+The milestone map is built using [Draw.io](https://www.draw.io). Project file can be found at [`Work-Space-milestone-map.xml`](Work-Space-milestone-map.xml) file.
+
+## Feature Idea
+
+- Create synergy template for contribute
+- Descryption my default configuration on work machine
+
+# Aplication
 
  List aplication on my workspace machine.
 
