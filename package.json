@@ -1,0 +1,31 @@
+{
+  "name": "work-space",
+  "version": "0.0.1",
+  "homepage": "https://www.workspace.wesolowski.dev/",
+  "description": "Configuration my Work machine on macOS",
+  "devDependencies": {
+    "gitbook": "3.2.3",
+    "gitbook-cli": "2.3.2",
+    "markdownlint-cli": "0.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SebastianWesolowski/WorkSpace"
+  },
+  "keywords": [
+    "OSx",
+    "OS X",
+    "Install",
+    "Mac",
+    "macOS",
+    "Git",
+    "Gitbook",
+    "Setup",
+    "Instruction"
+  ],
+  "author": "Sebastian Wesołowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SebastianWesolowski/WorkSpace/issues"
+  }
+}

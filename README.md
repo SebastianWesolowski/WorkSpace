@@ -36,55 +36,62 @@ The milestone map is built using [Draw.io](https://www.draw.io). Project file ca
 
  List aplication on my workspace machine.
 
-- Develop
-  - FileZilla.app
-  - Firefox.app
-  - Google Chrome Canary.app
-  - Google Chrome.app
-  * MAMP PRO.app
-  * MySQLWorkbench.app
-  - Sketch.app
-  * Sourcetree.app
-  - UXPin.app
-  - Visual Studio Code.app
-  - iTerm.app
-- Utility
-  - 1Password 7.app
-  - Airmail Beta.app
-  - Alfred 3.app
-  - Automator.app
-  - CloudMounter.app
-  - Discord.app
-  - Droplr.app
-  - EasyFind.app
-  - Focus.app
-  - ImageOptim.app
-  - Keka.app
-  - Magnet.app
-  - Money Pro.app
-  - OmniFocus.app
-  - Paste.app
-  - Slack.app
-  - SnippetsLab.app
-  - TeamViewer.app
-  - TogglDesktop.app
-  - Trello.app
-  - Unclutter.app
+- ### Develop
+
+  - FileZilla
+  - Firefox
+  - Google Chrome
+  - MAMP PRO
+  - MySQLWorkbench
+  - Sourcetree
+  - Visual Studio Code
+  - iTerm
+  - Zeplin
+  - GPG Keychain
+  - ImageOptim
+
+- ### Utility
+
+  - 1Password 7
+  - Alfred 3
+  - CloudMounter
+  - Discord
+  - Droplr
+  - Focus
+  - Keka
+  - Magnet
+  - OmniFocus
+  - Paste
+  - Slack
+  - SnippetsLab
+  - TeamViewer
+  - TogglDesktop
+  - Trello
+  - Unclutter
+
+- ### Graphic
+
   - Adobe
-    - Acrobat DC
-    - After Effects CC 2019
-    - Illustrator CC 2019
-    - InDesign CC 2019
-    - Media Encoder CC 2019
-    - Photoshop CC 2019
-- Fun
-  - Cappuccino.app
-  - Spotify.app
-- Work Helper
-  - Bear.app
-  - Microsoft Excel.app
-  - Microsoft OneNote.app
-  - Microsoft Word.app
+    - After Effects
+    - Illustrator
+    - InDesign
+    - Media Encoder
+    - Photoshop
+    - Sketch
+    - Figma
+
+- ### Fun
+
+  - feedly
+  - Spotify
+
+- ### Office app
+  - Acrobat DC
+  - Airmail Beta
+  - Notion
+  - Microsoft Excel
+  - Microsoft Word
+  - Money Pro
 
 <!-- ### About aplication
 

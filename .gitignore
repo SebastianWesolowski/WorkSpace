@@ -1,5 +1,6 @@
-# System Ignore
-*.DS_Store
-
-# NPM Ignore
 node_modules
+.grunt
+/_book/
+*.log
+
+*.DS_Store
