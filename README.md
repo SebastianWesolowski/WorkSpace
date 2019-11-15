@@ -9,7 +9,8 @@ This document describe configuration my Work machine.
   - [Milestone Map](Milestone%20Map)
     - [Build milestone Map](Build%20milestone%20Map)
   - [Feature Idea](Feature%20Idea)
-- [Aplication](Aplication)
+
+* [Aplication](Aplication)
 
 # Plan development idea
 
@@ -31,6 +32,7 @@ The milestone map is built using [Draw.io](https://www.draw.io). Project file ca
 
 - Create synergy template for contribute
 - Descryption my default configuration on work machine
+- Craete small web applicaton
 
 # Aplication
 
