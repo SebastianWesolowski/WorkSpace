@@ -2,77 +2,115 @@
 
 Here is a list of apps that are generally good to use and can come in handy in day to day tasks. The apps are separated into 4 broad categories _Developer Tools_, _Productivity Tools_, _Office Apps_ and _Other_.
 
-## Development Tools
+# Aplication
+
+ List aplication on my workspace machine. The apps are separated into 6 broad categories:
+
+- [_Develop Tools_](Develop%20Tools)
+- [_Utility Tools_](Utility%20Tools)
+- [_Office Apps_](Office%20Apps)
+- [_Graphic Apps_](Graphic%20Apps)
+- [_Fun_](Fun)
+
+* ### Develop Tools
+
+  - FileZilla
+  - Google Chrome
+  - MAMP PRO
+  - MySQLWorkbench
+  - Sourcetree
+  - Visual Studio Code
+  - iTerm
+  - Zeplin
+  - GPG Keychain
+  - ImageOptim
+
+* ### Utility Tools
+
+  - 1Password 7
+  - Alfred 4
+  - CloudMounter
+  - Discord
+  - Droplr
+  - Focus
+  - Keka
+  - Magnet
+  - OmniFocus
+  - Paste
+  - Slack
+  - SnippetsLab
+  - TeamViewer
+  - TogglDesktop
+  - Trello
+  - Unclutter
+
+* ### Office Apps
+
+  - Acrobat DC
+  - Airmail Beta
+  - Notion
+  - Microsoft Excel
+  - Microsoft Word
+  - Money Pro
+
+* ### Graphic Apps
+
+  - Adobe
+    - After Effects
+    - Illustrator
+    - InDesign
+    - Media Encoder
+    - Photoshop
+    - Sketch
+    - Figma
+
+* ### Fun
+
+  - feedly
+  - Spotify
+
+## Develop Tools
+
+- [FileZilla](https://filezilla-project.org/download.php?type=client): Ftp Client
+- [MAMP PRO](https://www.mamp.info/en/downloads/): Local Apache or NginX web server
+- [MySQLWorkbench](https://dev.mysql.com/downloads/workbench/): MySQL Workbench is a unified visual tool for database architects
+- [Sourcetree](https://www.sourcetreeapp.com/): GUI Git Client
+- [Visual Studio Code](https://code.visualstudio.com/Download): Code editor redefined and optimized for building and debugging modern web and cloud applications.
+- [iTerm](https://www.iterm2.com/downloads.html):Better terminal for MacOsX
+- [Zeplin](https://support.zeplin.io/en/articles/244698-downloading-mac-and-windows-apps):Modern Style guide
+- [GPG Keychain](https://gpgtools.org/): Encrypt, decrypt tool
+- [ImageOptim](https://imageoptim.com/pl): Optymalize image
 
 - [Google Chrome](https://www.google.com/intl/en/chrome/browser/): Chrome is a developer friendly browser with powerful development tools built in to it.
-- [Valentina Studio](http://www.valentina-db.com/en/valentina-studio-overview): Valentina Studio is a GUI to create, administer and query MySQL, Postgres and SQLite databases.
-- [Atom](https://atom.io/): An open source editor built and maintained by GitHub, is very similar to Sublime Text in most aspects.
 
-## Diff and Merge Tools
+## Utility Tools
 
-[FileMerge](https://developer.apple.com/xcode/features/): A free tool which is already installed on your machine. It might not be the most elegant tool, but it's definitely a solid one that does the job of comparing & merging text.
-
-![filemerge](filemerge.png)
-
-[Kaleidoscope](http://www.kaleidoscopeapp.com/): Another tool for reviewing and merging text, images and folders. Its beautiful user interface and great image diffing capabilities are what sets it apart from other tools. Available for a trial period of 15 days and then it requires payment.
-
-![Kaleidoscope](kaleidoscope.png)
-
-[Beyond Compare](http://www.scootersoftware.com/): Not only can you compare text with this tool but it also supports diffing Word and PDF contents. In the Pro Version it also supports merging.
-
-![Beyond Compare](beyond-compare.png)
-
-[Araxis Merge](http://www.araxis.com/merge/): One of the few diff tools that works with more than just text and image files, this one lets you also compare office documents (like MS Word, Excel, PowerPoint, or ODF). A single license is valid for both Windows and Mac.
-
-![Araxis Merge](araxis-merge.jpg)
-
-[DeltaWalker](http://www.deltawalker.com/): Just like Araxis, this app also lets you compare office files. However, it goes one step further by letting you compare file archives like ZIP, JAR, and TAR files. It also has great performance for comparing folders.
-
-![DeltaWalker](delta-walker.jpg)
-
-### Free alternatives
-
-- [P4Merge](http://www.perforce.com/product/components/perforce-visual-merge-and-diff-tools)
-- [DiffMerge](http://www.sourcegear.com/diffmerge/)
-Both of these tools can't compare in terms of features and user interface with their commercial competitors - but make for a valid alternative on Mac, Windows and Linux.
-
-*Thanks to Tower team*: [source](https://www.git-tower.com/blog/diff-tools-mac/)
-
-## Productivity
-
+- [CloudMounter](https://cloudmounter.net/downloads.html): Easily mount most popular clouds as disks without having to download online files on the hard drive.
+- [Discord](https://discordapp.com/): Social communication
+- [Droplr](https://droplr.com/): Capture screenshots and uploader - instantly saved to the cloud. Mark up your screenshots: share them instantly. Screencasts: with cam option. Enterprise security with personalization
+- [Focus](https://heyfocus.com/): Blocking distracting sites and applications,
+- [Keka](https://www.keka.io/pl/): Unarchiver file for mac
+- [Magnet](https://magnet.crowdcafe.com/):
+- [OmniFocus](): Activated by dragging, customizable keyboard shortcuts or via menu bar, Magnet declutters your screen by snapping windows into organized tiles.
+- [Paste](https://pasteapp.me/): Paste is the world's favorite clipboard manager and save.
+- [Slack](https://slack.com/downloads): Social communication
+- [SnippetsLab](https://www.renfei.org/snippets-lab/): Professional code snippets manager
+- [TeamViewer](https://www.teamviewer.com/): Remote acces to device
+- [TogglDesktop](https://toggl.com/toggl-desktop/): Time Tracker
+- [Trello](https://apps.apple.com/app/trello/id1278508951):Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.
+- [Unclutter](https://unclutterapp.com/):handy place on your desktop
 - [1Password](https://agilebits.com/onepassword): Cross platform password management tool.
 - [Airmail](http://airmailapp.com/): Lightweight fast email client.
 - [Alfred](http://www.alfredapp.com/): Spotlight on steroids.
-- [AppCleaner](http://www.freemacsoft.net/appcleaner/): Uninstall apps.
-- [Caffeine](http://lightheadsw.com/caffeine/): Stops the machine from going into sleep mode.
-- [DoubleTwist](https://www.doubletwist.com/desktop/): Import your playlists, ratings, music and videos. Create new playlists to your heart's content. Rate your songs and videos. Play your music and videos and view all of your photos.
 - [Dropbox](https://www.dropbox.com/): File syncing to the cloud. It syncs files across all devices (laptop, mobile, tablet), and serves as a backup as well!
-- [F.lux](https://justgetflux.com/): f.lux makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day (If you are running macOS 10.12.4 or later there's native functionality called 'Night Shift' that does the same thing as f.lux, see System Preferences -> Displays -> Night Shift).
-- [Google Drive](https://drive.google.com/): File syncing to the cloud too! Google Docs is a popular tool to collaborate with others.
-- [Notebooks](http://www.notebooksapp.com/mac/): Notebooks for Mac allows you to share files with the mobile versions of Notebooks on the iPad and iPhone. And you can write notes in markdown.
-- [PDF Toolkit+](https://itunes.apple.com/us/app/pdf-toolkit-+/id545164971?mt=12): App to cut/split/merge pdfs easily. Really easy to use and works well.
-- [Pocket](https://getpocket.com): Save For Later. Put articles, videos or pretty much anything into Pocket. Save directly from your browser or from apps like Twitter, Flipboard, Pulse and Zite.
-- [SleepPillow](https://itunes.apple.com/us/app/sleep-pillow/id597419160?mt=12): Sleep Pillow plays sounds that create an ambient atmosphere for sleep enhancement at home, or for drowning out noise at work.
-- [Spectacle](http://spectacleapp.com/): Don't waste time resizing and moving your windows. Spectacle makes this very easy and is open source.
-- [Timing](http://timingapp.com/): Keep track of the time you spend with your Mac.
-- [Tomighty](http://www.tomighty.org/): A free desktop timer for the Pomodoro Technique.
-- [Total Finder](http://totalfinder.binaryage.com/): Adds tabs and improves the Finder to a great deal.
-- [Transmission](http://www.transmissionbt.com/): A fast, easy and free BitTorrent client.
-- [Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html): Compress/Uncompress app. Supported file formats include Zip, Tar-GZip, Tar-BZip2, RAR, 7-zip, LhA, StuffIt and many other old and obscure formats.
+
+* [Pocket](https://getpocket.com): Save For Later. Put articles, videos or pretty much anything into Pocket. Save directly from your browser or from apps like Twitter, Flipboard, Pulse and Zite.
 
 ## Office Apps
 
-- [Keynote](http://www.apple.com/mac/keynote/): Create presentations on Mac, this is supposed to be an alternate to PowerPoint.
 - [Microsoft Office](http://www.microsoft.com/mac/buy): Microsoft Office for Mac. Includes Microsoft Word, Excel, PowerPoint and Outlook.
-- [Numbers](http://www.apple.com/mac/numbers/): Create spreadsheets on Mac, this is supposed to be an alternate to Excel.
-- [Pages](http://www.apple.com/mac/pages/): Create text files on Mac, this is supposed to be an alternate to Word.
 
 ## Other
 
 - [CheatSheet](http://www.grandtotal.biz/CheatSheet/): Tap the command key for long to see all the keyboard shortcuts of the current app.
-- [Mou](http://25.io/mou/): Markdown editor for developers.
-- [Skim](https://sourceforge.net/projects/skim-app/): Skim is a PDF reader and note-taker for macOS.
 - [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html): Take backups of your disk and use the backup disk to restore the machine in case of failure.
-- [TimeOut](http://www.dejal.com/timeout/): Scheduled work breaks to prevent stress injuries.
-- [VLC](http://www.videolan.org/vlc/index.html): VLC Media Player. Enough said.
-- [Voila](http://www.globaldelight.com/voila/): Record your screen with audio, mouse highlight and other features.

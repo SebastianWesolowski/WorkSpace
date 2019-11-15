@@ -1,6 +1,9 @@
 # Summary
 
 - [Introduction](README.md)
+- [Apps](Apps/README.md)
+  - [App Settings](Apps/Settings.md)
+- [EMPTY==EMPTY]()
 - [System Preferences](SystemPreferences/README.md)
 - [Homebrew](Homebrew/README.md)
   - [Usage](Homebrew/Usage.md)
@@ -14,8 +17,5 @@
 - [Visual Studio Code](VisualStudioCode/README.md)
 - [MySQL](MyySQL/README.md)
 - [Node.js](Node.js/README.md)
-- [Other Apps](Apps/README.md)
-  - [Octave](Apps/Octave.md)
-  - [App Settings](Apps/Settings.md)
 - [Security](Security/README.md)
 - [References](References/README.md)
