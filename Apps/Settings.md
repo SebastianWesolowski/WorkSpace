@@ -6,8 +6,9 @@ These settings are optional. Some of them are highly subjective and should not b
 
 - Add all the accounts into airmail
 - Update icons and signatures for all the accounts
-- Add alias for all the forwarding addresses
-- Change appearance to minimal
+- Set Dending Delay
+- Change appearance
+- Set favorite Folders
 
 ## CheatSheet
 
@@ -38,7 +39,7 @@ These settings are optional. Some of them are highly subjective and should not b
 - Sidebar -> Remove shared devices and All my files
 - Advanced -> Search in the current directory
 - TotalFinder
-    - Show progress bar
-    - Menus -> Show cut-copy-paste, All path copying, hide menu bar icon
-    - Uncheck visor
-    - Folder on top
+  - Show progress bar
+  - Menus -> Show cut-copy-paste, All path copying, hide menu bar icon
+  - Uncheck visor
+  - Folder on top

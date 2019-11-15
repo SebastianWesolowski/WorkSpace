@@ -47,7 +47,7 @@ Here is a list of apps that are generally good to use and can come in handy in d
 * ### Office Apps
 
   - Acrobat DC
-  - Airmail Beta
+  - Airmail
   - Notion
   - Microsoft Excel
   - Microsoft Word
@@ -100,17 +100,25 @@ Here is a list of apps that are generally good to use and can come in handy in d
 - [Trello](https://apps.apple.com/app/trello/id1278508951):Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.
 - [Unclutter](https://unclutterapp.com/):handy place on your desktop
 - [1Password](https://agilebits.com/onepassword): Cross platform password management tool.
-- [Airmail](http://airmailapp.com/): Lightweight fast email client.
 - [Alfred](http://www.alfredapp.com/): Spotlight on steroids.
 - [Dropbox](https://www.dropbox.com/): File syncing to the cloud. It syncs files across all devices (laptop, mobile, tablet), and serves as a backup as well!
 
 * [Pocket](https://getpocket.com): Save For Later. Put articles, videos or pretty much anything into Pocket. Save directly from your browser or from apps like Twitter, Flipboard, Pulse and Zite.
 
+- [CheatSheet](http://www.grandtotal.biz/CheatSheet/): Tap the command key for long to see all the keyboard shortcuts of the current app.
+- [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html): Take backups of your disk and use the backup disk to restore the machine in case of failure.
+
 ## Office Apps
 
+- [Acrobat DC](https://creativecloud.adobe.com/apps/all/desktop):
+- [Airmail](http://airmailapp.com/): Lightweight fast email client.
+- [Notion](https://www.notion.so/):A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
+- [Microsoft Excel](http://www.microsoft.com/mac/): Microsoft Excel for Mac.
+- [Microsoft Word](http://www.microsoft.com/mac/): Microsoft Word for Mac.
+- [Money Pro](https://money.pro/mac/): App to control cost life
 - [Microsoft Office](http://www.microsoft.com/mac/buy): Microsoft Office for Mac. Includes Microsoft Word, Excel, PowerPoint and Outlook.
 
 ## Other
 
-- [CheatSheet](http://www.grandtotal.biz/CheatSheet/): Tap the command key for long to see all the keyboard shortcuts of the current app.
-- [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html): Take backups of your disk and use the backup disk to restore the machine in case of failure.
+- [feedly](https://feedly.com/): Ssr Reader
+- [Spotify](https://www.spotify.com/): Music streaming
