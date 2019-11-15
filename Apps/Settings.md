@@ -10,6 +10,11 @@ These settings are optional. Some of them are highly subjective and should not b
 - Change appearance
 - Set favorite Folders
 
+![](assets/Airmail.png)
+![](assets/Airmail-1.png)
+![](assets/Airmail-2.png)
+![](assets/Airmail-3.png)
+
 ## CheatSheet
 
 - System Preferences -> Security and Privacy -> Accessibility -> Check
