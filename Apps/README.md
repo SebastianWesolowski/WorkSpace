@@ -33,10 +33,12 @@ Here is a list of apps that are generally good to use and can come in handy in d
   - Discord
   - Droplr
   - Focus
+  - Gemini 2
   - Keka
   - Magnet
   - OmniFocus
   - Paste
+  - PowerPhotos
   - Slack
   - SnippetsLab
   - TeamViewer
@@ -57,15 +59,19 @@ Here is a list of apps that are generally good to use and can come in handy in d
 
   - Adobe
     - After Effects
+    - Audition
     - Illustrator
     - InDesign
-    - Media Encoder
+    - Premiere Pro
     - Photoshop
-    - Sketch
-    - Figma
+  - Sketch
+  - Figma
 
-* ### Fun
-
+* ### Fun / Personal app
+  - GoPro Quik.app
+  - Send to Kindle
+  - e-Deklaracje.app
+  - e-pity.app
   - feedly
   - Spotify
 
