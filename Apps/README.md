@@ -25,6 +25,10 @@ Here is a list of apps that are generally good to use and can come in handy in d
   - GPG Keychain
   - ImageOptim
 
+  ```shell
+  $ brew cask install send-to-kindle
+  ```
+
 * ### Utility Tools
 
   - 1Password 7

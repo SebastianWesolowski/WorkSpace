@@ -19,7 +19,7 @@ suggestions. Always choose the setting that makes the most sense to you.**
 - Check checkbox _Ask to keep changes when closing documents_
 - Check checkbox _Close windows when quitting an app_
 
-## Users & Groups
+<!-- ## Users & Groups
 
 - _Login Options_ -> _Change fast user switching menu as Icon_
 - Set up _Password_, _Apple ID_, _Picture_, etc.
@@ -31,20 +31,42 @@ suggestions. Always choose the setting that makes the most sense to you.**
   - Change _Secondary click_ to _Right corner_
   - Uncheck _Three Finger Drag_
 - _Scroll & Zoom_
-  - Uncheck _all_ apart from _Zoom in and out_
+  - Uncheck _all_ apart from _Zoom in and out_ -->
 
 ## Dock
 
 - _Visual Settings_
+
+  - Dock > Automatically hide and show the Dock
   - _Change position_ to _Left_ and _make the size_ of icons _Small_
-- _Other settings_
-  - Remove _workspace auto-switching_ by running the following command:
+  - Automatically hide and show the Dock
 
-```shell
-$ defaults write com.apple.dock workspaces-auto-swoosh -bool NO
-$ killall Dock # Restart the Dock process
-```
+  ```shell
+  $ defaults write com.apple.dock autohide -bool true
+  ```
 
+  - Set size dock on `45`
+
+  ```shell
+  $ defaults write com.apple.dock tilesize -int 45; killall Dock
+  ```
+
+  - hange minimize/maximize window effect
+    defaults write com.apple.dock mineffect -string "scale"
+
+# Minimize windows into their application’s icon
+
+defaults write com.apple.dock minimize-to-application -bool true
+
+# Show indicator lights for open applications in the Dock
+
+defaults write com.apple.dock show-process-indicators -bool true
+
+# Don’t animate opening applications from the Dock
+
+defaults write com.apple.dock launchanim -bool false
+
+<!--
 ## Finder
 
 - General
@@ -125,4 +147,4 @@ $ sudo ln -s /usr/local/sbin/mount_ntfs /sbin/mount_ntfs
 $ csrutil enable
 ```
 
-- **Reboot** normally
+- **Reboot** normally -->
