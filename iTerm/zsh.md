@@ -61,7 +61,14 @@ Add plugins to your shell by adding the name of the plugin to the `plugin`
 array in your `.zshrc`.
 
 ```sh
-plugins=(git colored-man colorize pip python brew osx zsh-syntax-highlighting zsh-autosuggestions)
+plugins=(
+  git
+  dotenv
+  osx
+  colorize
+  brew
+  zsh-syntax-highlighting
+)
 ```
 
 You'll find a list of all plugins on the [Oh My Zsh Wiki](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins).
