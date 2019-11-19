@@ -19,50 +19,47 @@ website](https://caskroom.github.io/). You can also search in your terminal:
 
     $ brew search <package>
 
-## Example Applications
+### App list
 
-### Quick Look plugins
-
-These plugins add support for the corresponding file type to Mac Quick Look
-(In Finder, mark a file and press Space to start Quick Look). The plugins
-includes features like syntax highlighting, Markdown rendering, preview of
-JSON, patch files, CSV, ZIP files and more.
+Here are all my app stack
 
 ```sh
-$ brew cask install \
-    qlcolorcode \
-    qlstephen \
-    qlmarkdown \
-    quicklook-json \
-    qlprettypatch \
-    quicklook-csv \
-    betterzip \
-    webpquicklook \
-    suspicious-package
-```
-
-### App Suggestions
-
-Here are some useful apps that are available on Cask.
-
-```sh
-$ brew cask install \
-    alfred \
-    android-file-transfer \
-    appcleaner \
-    caffeine \
-    cheatsheet \
-    docker \
-    doubletwist \
-    dropbox \
+$ brew cask install
     google-chrome \
-    google-hangouts \
-    flux \
+    mamp \
+    mysqlworkbench \
+    sourcetree \
+    visual-studio-code \
+    iterm2 \
+    zeplin \
+    gpg-suite \
+    imageoptim \
     1password \
-    spectacle \
-    sublime-text \
-    superduper \
-    transmission \
-    valentina-studio \
-    vlc
+    alfred \
+    cloudmounter \
+    discord \
+    droplr \
+    focus \
+    gemini \
+    keka \
+    441258766 \
+    omnifocus \
+    paste \
+    powerphotos \
+    slack \
+    1006087419 \
+    teamviewer \
+    toggl \
+    1278508951 \
+    notion \
+    microsoft-excel \
+    microsoft-word \
+    adobe-creative-cloud \
+    sketch \
+    figma \
+    quik \
+    send-to-kindle \
+    865500966 \
+    spotify
+
 ```

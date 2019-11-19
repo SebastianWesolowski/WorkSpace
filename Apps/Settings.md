@@ -43,6 +43,10 @@ These settings are optional. Some of them are highly subjective and should not b
 
 ### ImageOptim
 
+### Safari
+
+- check checkbox Advanced -> Show Develop in menu bar
+
 ```shell
 open -a ImageOptim.app *.png
 ```

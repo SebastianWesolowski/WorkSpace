@@ -15,15 +15,15 @@ Here is a list of apps that are generally good to use and can come in handy in d
 * ### Develop Tools
 
   - FileZilla
-  - Google Chrome
-  - MAMP PRO
-  - MySQLWorkbench
-  - Sourcetree
-  - Visual Studio Code
-  - iTerm
-  - Zeplin
-  - GPG Keychain
-  - ImageOptim
+  - Google Chrome (google-chrome)
+  - MAMP PRO (mamp)
+  - MySQLWorkbench (mysqlworkbench)
+  - Sourcetree (sourcetree)
+  - Visual Studio Code (visual-studio-code)
+  - iTerm2 (iterm2)
+  - Zeplin (zeplin)
+  - GPG Keychain (gpg-suite)
+  - ImageOptim (imageoptim)
 
   ```shell
   $ brew cask install send-to-kindle
@@ -31,22 +31,22 @@ Here is a list of apps that are generally good to use and can come in handy in d
 
 * ### Utility Tools
 
-  - 1Password 7
-  - Alfred 4
-  - CloudMounter
-  - Discord
-  - Droplr
-  - Focus
-  - Gemini 2
-  - Keka
+  - 1Password 7 (1password)
+  - Alfred 4 (alfred)
+  - CloudMounter (cloudmounter)
+  - Discord (discord)
+  - Droplr (droplr)
+  - Focus (focus)
+  - Gemini 2 (gemini)
+  - Keka (keka)
   - Magnet
-  - OmniFocus
-  - Paste
-  - PowerPhotos
-  - Slack
+  - OmniFocus (omnifocus)
+  - Paste (paste)
+  - PowerPhotos (powerphotos)
+  - Slack (slack)
   - SnippetsLab
-  - TeamViewer
-  - TogglDesktop
+  - TeamViewer (teamviewer)
+  - TogglDesktop (toggl)
   - Trello
   - Unclutter
 
@@ -54,30 +54,30 @@ Here is a list of apps that are generally good to use and can come in handy in d
 
   - Acrobat DC
   - Airmail
-  - Notion
-  - Microsoft Excel
-  - Microsoft Word
+  - Notion (notion)
+  - Microsoft Excel (microsoft-excel)
+  - Microsoft Word (microsoft-word)
   - Money Pro
 
 * ### Graphic Apps
 
-  - Adobe
+  - Adobe (adobe-creative-cloud)
     - After Effects
     - Audition
     - Illustrator
     - InDesign
     - Premiere Pro
     - Photoshop
-  - Sketch
-  - Figma
+  - Sketch (sketch)
+  - Figma (figma)
 
 * ### Fun / Personal app
-  - GoPro Quik.app
-  - Send to Kindle
-  - e-Deklaracje.app
-  - e-pity.app
+  - GoPro Quik (quik)
+  - Send to Kindle (send-to-kindle)
+  - e-Deklaracje
+  - e-pity
   - feedly
-  - Spotify
+  - Spotify (spotify)
 
 ## Develop Tools
 
