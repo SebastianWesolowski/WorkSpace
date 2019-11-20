@@ -12,7 +12,7 @@
   - [Zsh](iTerm/zsh.md)
 - [Git](Git/README.md)
   - [Git Ignore](Git/gitignore.md)
-- [Bash Completion](BashCompletion/README.md)
+- [Bash](Bash/README.md)
 - [Vim](Vim/README.md)
 - [Visual Studio Code](VisualStudioCode/README.md)
 - [MySQL](MyySQL/README.md)

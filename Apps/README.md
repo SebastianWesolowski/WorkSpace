@@ -33,21 +33,21 @@ Here is a list of apps that are generally good to use and can come in handy in d
 
   - 1Password 7 (1password)
   - Alfred 4 (alfred)
-  - CloudMounter (cloudmounter)
+  - CloudMounter (cloudmounter) (1130254674)
   - Discord (discord)
   - Droplr (droplr)
   - Focus (focus)
   - Gemini 2 (gemini)
-  - Keka (keka)
-  - Magnet
-  - OmniFocus (omnifocus)
+  - Keka (keka) (470158793)
+  - Magnet (441258766)
+  - OmniFocus (omnifocus) (1346203938)
   - Paste (paste)
   - PowerPhotos (powerphotos)
-  - Slack (slack)
-  - SnippetsLab
+  - Slack (slack) (803453959)
+  - SnippetsLab (1006087419)
   - TeamViewer (teamviewer)
   - TogglDesktop (toggl)
-  - Trello
+  - Trello (1278508951)
   - Unclutter
 
 * ### Office Apps
@@ -76,7 +76,7 @@ Here is a list of apps that are generally good to use and can come in handy in d
   - Send to Kindle (send-to-kindle)
   - e-Deklaracje
   - e-pity
-  - feedly
+  - feedly (865500966)
   - Spotify (spotify)
 
 ## Develop Tools
