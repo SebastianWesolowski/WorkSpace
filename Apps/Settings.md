@@ -63,6 +63,81 @@ open -a ImageOptim.app *.png
 
 - set hot key on ⌘ + space
 
+### SnippetsLab
+
+- Import all snipets
+- login to icloud
+
+### TeamViewer
+
+- login to acocunt
+- set password computer
+
+### Unclutter
+
+- Insert licence [key](https://my.1password.com/vaults/all/allitems/omdpfc23mdkfciump7b3riv37q)
+
+---
+
+## Office Apps
+
+### Airmail
+
+- Add all the accounts into airmail
+- Update icons and signatures for all the accounts
+- Set Dending Delay
+- Change appearance
+- Set favorite Folders
+
+![](assets/Airmail.png)
+![](assets/Airmail-1.png)
+![](assets/Airmail-2.png)
+![](assets/Airmail-3.png)
+
+---
+
+## Fun / Personal app
+
+### e-Deklaracje
+
+- import database
+
+### e-pity
+
+- import database
+
+### Notion
+
+- login to acocunt
+
+### Money Pro
+
+- login to acocunt
+
+### Adobe
+
+- login to acocunt
+
+### Figma
+
+- login to acocunt
+
+### feedly
+
+- login to acocunt
+
+### Spotify
+
+- login to acocunt
+
+### TogglDesktop
+
+- login to acocunt
+
+### Trello
+
+- login to acocunt
+
 ### CloudMounter
 
 - login to all acount drive
@@ -94,85 +169,6 @@ open -a ImageOptim.app *.png
 ### Slack
 
 - Login to all account
-
-### SnippetsLab
-
-- Import all snipets
-- login to icloud
-
-### TeamViewer
-
-- login to acocunt
-- set password computer
-
-### TogglDesktop
-
-- login to acocunt
-
-### Trello
-
-- login to acocunt
-
-### Unclutter
-
-- Insert licence key
-
----
-
-## Office Apps
-
-### Airmail
-
-- Add all the accounts into airmail
-- Update icons and signatures for all the accounts
-- Set Dending Delay
-- Change appearance
-- Set favorite Folders
-
-![](assets/Airmail.png)
-![](assets/Airmail-1.png)
-![](assets/Airmail-2.png)
-![](assets/Airmail-3.png)
-
-### Notion
-
-- login to acocunt
-
-### Money Pro
-
-- login to acocunt
-
----
-
-## Graphic Apps
-
-### Adobe
-
-- login to acocunt
-
-### Figma
-
-- login to acocunt
-
----
-
-## Fun / Personal app
-
-### e-Deklaracje
-
-- import database
-
-### e-pity
-
-- import database
-
-### feedly
-
-- login to acocunt
-
-### Spotify
-
-- login to acocunt
   <!-- ### CheatSheet -->
 
 <!-- - System Preferences -> Security and Privacy -> Accessibility -> Check -->
