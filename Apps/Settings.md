@@ -35,10 +35,6 @@ These settings are optional. Some of them are highly subjective and should not b
 
 - [iTerm](iTerm/README.md)
 
-### Zeplin
-
-- login to work account
-
 ### GPG Keychain
 
 ### ImageOptim
@@ -66,16 +62,33 @@ open -a ImageOptim.app *.png
 ### SnippetsLab
 
 - Import all snipets
+  https://my.1password.com/vaults/all/allitems/3kcsjsqoqjchzmhpltnnjsdca4
 - login to icloud
+  https://my.1password.com/vaults/all/allitems/5irne2bgu5aarj5x5kdrb4h7oq
 
 ### TeamViewer
 
 - login to acocunt
+  https://my.1password.com/vaults/all/allitems/3rh5dmrlwbe6fc7eumq2qxjrbe
 - set password computer
 
 ### Unclutter
 
 - Insert licence [key](https://my.1password.com/vaults/all/allitems/omdpfc23mdkfciump7b3riv37q)
+
+### Paste
+
+- Set history Capacity on Month
+
+### Focus
+
+- Enter Licence key:
+  https://my.1password.com/vaults/all/allitems/uibo7j2ydosf5jhcduem7pd2l4
+
+### Gemini 2
+
+- Enter Licence key:
+  https://my.1password.com/vaults/all/allitems/yglgbcg4ztflgjmqbfe7rhjvai
 
 ---
 
@@ -106,69 +119,20 @@ open -a ImageOptim.app *.png
 
 - import database
 
-### Notion
+# Cloud Settings:
 
-- login to acocunt
-
-### Money Pro
-
-- login to acocunt
-
-### Adobe
-
-- login to acocunt
-
-### Figma
-
-- login to acocunt
-
-### feedly
-
-- login to acocunt
-
-### Spotify
-
-- login to acocunt
-
-### TogglDesktop
-
-- login to acocunt
-
-### Trello
-
-- login to acocunt
-
-### CloudMounter
-
-- login to all acount drive
-
-### Discord
-
-- login to account
-
-### Droplr
-
-- login to account
-
-### Focus
-
-- login to account
-
-### Gemini 2
-
-- Insert licence key
-
-### OmniFocus
-
-- login to account
-
-### Paste
-
-- Set history Capacity on Month
-
-### Slack
-
-- Login to all account
-  <!-- ### CheatSheet -->
-
-<!-- - System Preferences -> Security and Privacy -> Accessibility -> Check -->
+- Zeplin
+- Notion
+- Money Pro
+- Adobe
+- Figma
+- feedly
+- Spotify
+- TogglDesktop
+- Trello
+- CloudMounter
+- Discord
+- Droplr
+- OmniFocus
+- Slack
+  - [Login to account](../Login/README.md)
