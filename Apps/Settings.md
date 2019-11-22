@@ -7,25 +7,42 @@ These settings are optional. Some of them are highly subjective and should not b
 ### FileZilla
 
 - Import all save ftp connection
-    <!-- - upload file to drive -->
-- Separe Set Production servert and set red collor
+  - https://my.1password.com/vaults/all/allitems/dvaksdajv5hc3gz3zp6j5367m4
+- Separe Set Production server and set red collor
 
 ### Google Chrome
 
 - Sync all google account
+  https://my.1password.com/vaults/all/allitems/ozh4dt5xlreexi6kabvdon6jau
+  https://my.1password.com/vaults/all/allitems/s2bxmxxerzby7ehwk4ey6o4dii
+  https://my.1password.com/vaults/all/allitems/nrlfuvxs4fgabjih3tfwbejwl4
+  https://my.1password.com/vaults/all/allitems/3f22tkog4bhmnn2fpkwnu45lvm
+
 - Install addons
+  - My Words Discoverer: Expand your vocabulary - Highlights rare English dictionary words and idioms on web pages. Facilitates English language learning and expands your vocabulary.
+  - 1Password extension (desktop app required) - Extends the 1Password app on your Mac or Windows PC, so you can fill and save passwords in your browser.
+  - AdBlock — best ad blocker - Block ads and pop-ups on YouTube, Facebook, Twitch, and your favorite websites.
+  - Droplr - Screenshot, Annotate, & Screencast - Screen capture FULL webpage or any part of it. Take screenshots, annotations, screen recordings with audio narration.
+  - Google Translate - View translations easily as you browse the web. By the Google Translate team.
+  - Lighthouse - Lighthouse
+  - Material DevTools Theme - A developer tools color theme inspired by the Material Theme UI plugin for IntelliJ IDEA.
+  - Notion Web Clipper - Use our Web Clipper to save any website into Notion.
+  - PHP Console - Display PHP errors & vars dumps in Google Chrome console and notification popups, execute PHP code remotely.
+  - PixelParallel by htmlBurger - PixelParallel by htmlBurger - Pixel perfect HTML vs Design tool for developers
+  - React Developer Tools - Adds React debugging tools to the Chrome Developer Tools. Created from revision a8b8ffb89 on 10/3/2019.
+  - Wappalyzer - Identify web technologies
+  - Web Developer - Adds a toolbar button with various web developer tools.
 
 ### MAMP PRO
 
 - Create folder **./site** for all active project
+- active licence key
+- https://my.1password.com/vaults/all/allitems/jm5z7o5z5lsirga52lzw3bm4gq
 
 ### MySQLWorkbench
 
 - import saved database connection
-
-### Sourcetree
-
-- Conect to work account
+  <!-- TODO create export file -->
 
 ### Visual Studio Code
 
@@ -37,15 +54,17 @@ These settings are optional. Some of them are highly subjective and should not b
 
 ### GPG Keychain
 
+- Generate key for github:
+  - https://help.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key
+
 ### ImageOptim
+
+- Uncheck enable lossy compress
+- check Guetzli compr
 
 ### Safari
 
 - check checkbox Advanced -> Show Develop in menu bar
-
-```shell
-open -a ImageOptim.app *.png
-```
 
 ---
 
@@ -121,6 +140,7 @@ open -a ImageOptim.app *.png
 
 # Cloud Settings:
 
+- Sourcetree
 - Zeplin
 - Notion
 - Money Pro
