@@ -1,0 +1,44 @@
+{
+    "window.zoomLevel": 0,
+    "extensions.ignoreRecommendations": false,
+    "editor.renderWhitespace": "all",
+    "breadcrumbs.enabled": true,
+    "java.home": "/usr/bin/java",
+    "highlight-matching-tag.enabled": true,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": true,
+    "files.exclude": {
+        "**/.git": false
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "blade.format.enable": true,
+    "cSpell.userWords": [
+        "Roboto",
+        "antialiased",
+        "danbruegge",
+        "frontmatter",
+        "linkedin",
+        "scrollbar",
+        "stylelint",
+        "tailwindcss"
+    ],
+    "gitlens.defaultDateShortFormat": "DD/MM/YY",
+    "gitlens.defaultDateFormat": "DD,MMMM,YYYY",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontWeightBold": "normal",
+    "terminal.integrated.fontSize": 10,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "tailwindCSS.emmetCompletions": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+}

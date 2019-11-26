@@ -16,5 +16,5 @@ Launch VS Code from the [command line](https://code.visualstudio.com/docs/setup/
 
 After that, you can launch VS Code from your terminal:
 
-* `code .` will open VS Code in the current directory
-* `code myfile.txt` will open `myfile.txt` in VS Code
+- `code .` will open VS Code in the current directory
+- `code myfile.txt` will open `myfile.txt` in VS Code

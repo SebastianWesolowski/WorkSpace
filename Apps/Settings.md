@@ -46,11 +46,11 @@ These settings are optional. Some of them are highly subjective and should not b
 
 ### Visual Studio Code
 
-- [Visual Studio Code](VisualStudioCode/README.md)
+- [Visual Studio Code](../VisualStudioCode/README.md)
 
 ### iTerm
 
-- [iTerm](iTerm/README.md)
+- [iTerm](../iTerm/README.md)
 
 ### GPG Keychain
 
