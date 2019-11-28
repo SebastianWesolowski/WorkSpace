@@ -19,11 +19,16 @@ suggestions. Always choose the setting that makes the most sense to you.**
 - Check checkbox _Ask to keep changes when closing documents_
 - Check checkbox _Close windows when quitting an app_
 
-<!-- ## Users & Groups
+## Users & Groups
+
+- Create One account for workspace
+- Create One account utylity uses
 
 - _Login Options_ -> _Change fast user switching menu as Icon_
+
 - Set up _Password_, _Apple ID_, _Picture_, etc.
 
+<!--
 ## Trackpad
 
 - _Point & Click_
