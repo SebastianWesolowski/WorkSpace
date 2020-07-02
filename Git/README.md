@@ -28,6 +28,19 @@ the following command, as described in the
 
     $ git config --global credential.helper osxkeychain
 
+## Change default editor for Git
+
+Many Git commands will launch a text editor to prompt for further input. Most frustrating option in default git config is vim editor
+
+| Editor | config command |
+| --- | --- |
+| Atom | `~ git config --global core.editor "atom --wait"~` |
+| **nano** | **`~ git config --global core.editor "nano -w"~`** |
+| vim | `~ git config --global core.editor "vim"~` |
+| Sublime Text (Mac) | `~ git config --global core.editor "subl -n -w"~` |
+
+[Git Doc](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#_basic_client_configuration)
+
 ## SSH Config for GitHub
 
 The instructions below are referenced from [the official

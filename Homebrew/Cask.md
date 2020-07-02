@@ -25,6 +25,7 @@ Here are all my app stack
 
 ```sh
 $ brew cask install
+    deepl \
     google-chrome \
     mamp \
     mysqlworkbench \
@@ -60,6 +61,9 @@ $ brew cask install
     quik \
     send-to-kindle \
     865500966 \
+    keycastr \
+    vagrant \
+    mailspring \
     spotify
 
 ```

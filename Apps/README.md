@@ -112,6 +112,7 @@ Here is a list of apps that are generally good to use and can come in handy in d
 - [1Password](https://agilebits.com/onepassword): Cross platform password management tool.
 - [Alfred](http://www.alfredapp.com/): Spotlight on steroids.
 - [Dropbox](https://www.dropbox.com/): File syncing to the cloud. It syncs files across all devices (laptop, mobile, tablet), and serves as a backup as well!
+- [DeepL](https://www.deepl.com/): Translator
 
 * [Pocket](https://getpocket.com): Save For Later. Put articles, videos or pretty much anything into Pocket. Save directly from your browser or from apps like Twitter, Flipboard, Pulse and Zite.
 

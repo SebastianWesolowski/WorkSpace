@@ -13,10 +13,10 @@ These settings are optional. Some of them are highly subjective and should not b
 ### Google Chrome
 
 - Sync all google account
-  https://my.1password.com/vaults/all/allitems/ozh4dt5xlreexi6kabvdon6jau
-  https://my.1password.com/vaults/all/allitems/s2bxmxxerzby7ehwk4ey6o4dii
-  https://my.1password.com/vaults/all/allitems/nrlfuvxs4fgabjih3tfwbejwl4
-  https://my.1password.com/vaults/all/allitems/3f22tkog4bhmnn2fpkwnu45lvm
+  - https://my.1password.com/vaults/all/allitems/ozh4dt5xlreexi6kabvdon6jau
+  - https://my.1password.com/vaults/all/allitems/s2bxmxxerzby7ehwk4ey6o4dii
+  - https://my.1password.com/vaults/all/allitems/nrlfuvxs4fgabjih3tfwbejwl4
+  - https://my.1password.com/vaults/all/allitems/3f22tkog4bhmnn2fpkwnu45lvm
 
 - Install addons
   - My Words Discoverer: Expand your vocabulary - Highlights rare English dictionary words and idioms on web pages. Facilitates English language learning and expands your vocabulary.
