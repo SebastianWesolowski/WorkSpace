@@ -74,6 +74,7 @@ defaults write com.apple.dock launchanim -bool false
 <!--
 ## Finder
 
+- check calculate all file size in (⌘+ J)
 - General
   - Change _New finder window show_ to open in your _Home Directory_
 - Sidebar
