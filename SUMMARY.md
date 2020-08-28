@@ -8,6 +8,7 @@
 - [Homebrew](Homebrew/README.md)
   - [Usage](Homebrew/Usage.md)
   - [Cask](Homebrew/Cask.md)
+  - [List install packages](Homebrew/List.md)
 - [iTerm2](iTerm/README.md)
   - [Zsh](iTerm/zsh.md)
 - [Git](Git/README.md)

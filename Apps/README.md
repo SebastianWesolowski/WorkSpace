@@ -15,15 +15,17 @@ Here is a list of apps that are generally good to use and can come in handy in d
 * ### Develop Tools
 
   - FileZilla
+  - GitHub Desktop
   - Google Chrome (google-chrome)
   - MAMP PRO (mamp)
   - MySQLWorkbench (mysqlworkbench)
   - Sourcetree (sourcetree)
   - Visual Studio Code (visual-studio-code)
   - iTerm2 (iterm2)
-  - Zeplin (zeplin)
+  - Postman
   - GPG Keychain (gpg-suite)
   - ImageOptim (imageoptim)
+  - Zeplin (zeplin)
 
   ```shell
   $ brew cask install send-to-kindle
@@ -34,21 +36,33 @@ Here is a list of apps that are generally good to use and can come in handy in d
   - 1Password 7 (1password)
   - Alfred 4 (alfred)
   - CloudMounter (cloudmounter) (1130254674)
-  - Discord (discord)
+  - DeepL
   - Droplr (droplr)
   - Focus (focus)
   - Gemini 2 (gemini)
   - Keka (keka) (470158793)
   - Magnet (441258766)
+  - OmniDiskSweeper
   - OmniFocus (omnifocus) (1346203938)
   - Paste (paste)
   - PowerPhotos (powerphotos)
-  - Slack (slack) (803453959)
   - SnippetsLab (1006087419)
   - TeamViewer (teamviewer)
   - TogglDesktop (toggl)
   - Trello (1278508951)
   - Unclutter
+
+* ### Comunication
+
+  - ClickMeeting
+  - Discord (discord)
+  - Microsoft Teams
+  - Skype
+  - Slack (slack) (803453959)
+
+* ### Education
+
+  - Anki
 
 * ### Office Apps
 
@@ -58,6 +72,7 @@ Here is a list of apps that are generally good to use and can come in handy in d
   - Microsoft Excel (microsoft-excel)
   - Microsoft Word (microsoft-word)
   - Money Pro
+  - Typora - convert to kindle
 
 * ### Graphic Apps
 
