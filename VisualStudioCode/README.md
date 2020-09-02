@@ -18,3 +18,11 @@ After that, you can launch VS Code from your terminal:
 
 - `code .` will open VS Code in the current directory
 - `code myfile.txt` will open `myfile.txt` in VS Code
+
+# Launching from the command line
+
+You can also run VS Code from the terminal by typing 'code' after adding it to the path:
+
+Launch VS Code.
+Open the Command Palette (⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
+macOS shell commands

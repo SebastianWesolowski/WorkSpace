@@ -28,16 +28,25 @@ the following command, as described in the
 
     $ git config --global credential.helper osxkeychain
 
+# Configuring ignored files for all repositories on your computer
+
+You can also create a global .gitignore file to define a list of rules for ignoring files in every Git repository on your computer. For example, you might create the file at ~/.gitignore_global and add some rules to it.
+
+Open Terminal.
+Configure Git to use the exclude file ~/.gitignore_global for all Git repositories.
+
+    $ git config --global core.excludesfile ~/.gitignore_global
+
 ## Change default editor for Git
 
 Many Git commands will launch a text editor to prompt for further input. Most frustrating option in default git config is vim editor
 
-| Editor | config command |
-| --- | --- |
-| Atom | `~ git config --global core.editor "atom --wait"~` |
-| **nano** | **`~ git config --global core.editor "nano -w"~`** |
-| vim | `~ git config --global core.editor "vim"~` |
-| Sublime Text (Mac) | `~ git config --global core.editor "subl -n -w"~` |
+| Editor             | config command                                     |
+| ------------------ | -------------------------------------------------- |
+| Atom               | `~ git config --global core.editor "atom --wait"~` |
+| **nano**           | **`~ git config --global core.editor "nano -w"~`** |
+| vim                | `~ git config --global core.editor "vim"~`         |
+| Sublime Text (Mac) | `~ git config --global core.editor "subl -n -w"~`  |
 
 [Git Doc](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#_basic_client_configuration)
 
