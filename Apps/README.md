@@ -21,6 +21,7 @@ Here is a list of apps that are generally good to use and can come in handy in d
   - MySQLWorkbench (mysqlworkbench)
   - Sourcetree (sourcetree)
   - Visual Studio Code (visual-studio-code)
+  - WebStorm
   - iTerm2 (iterm2)
   - Postman
   - GPG Keychain (gpg-suite)

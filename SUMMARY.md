@@ -1,10 +1,10 @@
 # Summary
 
-- [Introduction](README.md)
+- [Introduction ](README.md)
+- [System Preferences](SystemPreferences/README.md)
 - [Apps](Apps/README.md)
   - [App Settings](Apps/Settings.md)
 - [EMPTY==EMPTY]()
-- [System Preferences](SystemPreferences/README.md)
 - [Homebrew](Homebrew/README.md)
   - [Usage](Homebrew/Usage.md)
   - [Cask](Homebrew/Cask.md)
