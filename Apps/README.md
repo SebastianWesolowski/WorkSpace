@@ -28,7 +28,7 @@ Here is a list of apps that are generally good to use and can come in handy in d
   - ImageOptim (imageoptim)
   - Zeplin (zeplin)
 
-  ```shell
+  ```bash
   $ brew cask install send-to-kindle
   ```
 

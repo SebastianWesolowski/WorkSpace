@@ -63,7 +63,7 @@ brew install zsh zsh-completions
 
 https://medium.com/@ozzievee/configuring-vs-code-integrated-terminal-to-use-oh-my-zsh-f545de1545c1
 
-```shell
+```bash
 // Use ZSH as the integrated terminal
 shell."terminal.integrated.shell.osx": "zsh",
 

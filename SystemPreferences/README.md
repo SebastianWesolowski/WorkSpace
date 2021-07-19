@@ -3,7 +3,7 @@
 #TL;DR
 
 ## Accessibility
- ```shell
+ ```bash
   defaults write com.apple.universalaccess closeViewScrollWheelToggle -bool true
   defaults write com.apple.universalaccess closeViewShowPreview -bool true
   defaults write com.apple.universalaccess closeViewSmoothImages -bool true
@@ -11,7 +11,7 @@
  ```
 
 ## Dock
- ```shell
+ ```bash
   defaults write com.apple.dock autohide -bool true
   defaults write com.apple.dock tilesize -int 45;
   defaults write com.apple.dock magnification -bool false;
@@ -23,11 +23,26 @@
   ```
 
 ## Notifications
-```shell
+```bash
   defaults write com.apple.mcxMenuExtras Battery.menu -bool true
   defaults write com.apple.mcxMenuExtras Bluetooth.menu -bool true
   defaults write com.apple.mcxMenuExtras CPU.menu -bool true
 ```
+
+## System Tweaks
+  ```bash
+  mkdir -p ~/Documents/screenshots
+  defaults write com.apple.screencapture location ~/Documents/screenshots && killall SystemUIServer
+  defaults write NSGlobalDomain KeyRepeat -int 0
+  defaults write NSGlobalDomain AppleShowAllExtensions -bool true
+  defaults write com.apple.finder ShowPathbar -bool true
+  defaults write com.apple.finder ShowStatusBar -bool true
+  defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
+  defaults write -g AppleShowAllExtensions -bool true
+  defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true
+  defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true
+  ```
+
 
 ## First Time Setup
 
@@ -165,12 +180,15 @@ Change shortcut Move left and right a space to
 - use command `⌘ + ⇧ + .` to show hidden file 
 
 - check calculate all file size in (⌘+ J)
+
 ![](finder.png)
 
 open Finder preferences (⌘ + ,)
 - General
   - Change _New finder window show_ to open in your Directory with all project for eg `~/web`
+
 ![](finder-preferences-general.png)
+    
 - Sidebar
   - Add Directory with all project
   - Uncheck all unused boxes
@@ -178,12 +196,52 @@ open Finder preferences (⌘ + ,)
 
 # UTILS
 
+## Intro Note:
+Apple's default system settings are limiting and don't show a lot of information. Let's change the settings for better usability around the system.
+Note: keep in mind you probably have to re-open Finder or Terminal to see these changes
+
 - Enable _repeating keys by pressing and holding down keys_ (remember to restart any app that you need to repeat keys in)
-  ```shell
+  ```bash
   defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false
   ``` 
 - Change the default folder for screenshots
-  ```shell
+  ```bash
   mkdir -p ~/Documents/screenshots
   defaults write com.apple.screencapture location ~/Documents/screenshots && killall SystemUIServer
+  ```
+
+- Set fast keyboard key repeat rate
+  ```bash
+  defaults write NSGlobalDomain KeyRepeat -int 0
+  ```
+
+- Show filename extensions by default
+  ```bash
+  defaults write NSGlobalDomain AppleShowAllExtensions -bool true
+  ```
+
+- Show Path Bar and Status Bar in Finder
+
+  ```bash
+  defaults write com.apple.finder ShowPathbar -bool true
+  defaults write com.apple.finder ShowStatusBar -bool true
+  ```
+
+- Show Full Path in Finder Title Bar
+
+  ```bash
+  defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
+  ```
+
+- Show All File Extensions
+
+  ```bash
+  defaults write -g AppleShowAllExtensions -bool true
+  ```
+
+- Disable Creation of DS_Store Files on Network Volumes and USB Drives
+
+  ```bash
+  defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true
+  defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true
   ```
