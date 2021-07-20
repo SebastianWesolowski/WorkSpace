@@ -28,6 +28,14 @@ the following command, as described in the
 
     $ git config --global credential.helper osxkeychain
 
+# Setup long path
+
+Git has a limit of 4096 characters for a filename, except on Windows when Git is compiled with msys. It uses an older version of the Windows API and there's a limit of 260 characters for a filename.
+
+```bash
+git config --system core.longpaths true
+```
+
 # Configuring ignored files for all repositories on your computer
 
 You can also create a global .gitignore file to define a list of rules for ignoring files in every Git repository on your computer. For example, you might create the file at ~/.gitignore_global and add some rules to it.
@@ -41,12 +49,25 @@ Configure Git to use the exclude file ~/.gitignore_global for all Git repositori
 
 Many Git commands will launch a text editor to prompt for further input. Most frustrating option in default git config is vim editor
 
+> If you want to use VSC for editing you must install the `code` command first . [How to setup Visual Studio Code](../VisualStudioCode/README.md)
+
 | Editor             | config command                                     |
 | ------------------ | -------------------------------------------------- |
 | Atom               | `~ git config --global core.editor "atom --wait"~` |
 | **nano**           | **`~ git config --global core.editor "nano -w"~`** |
 | vim                | `~ git config --global core.editor "vim"~`         |
 | Sublime Text (Mac) | `~ git config --global core.editor "subl -n -w"~`  |
+| Visual Studio Code | `~ git config --global core.editor "code --wait"`  |
+
+
+> file `~/.aliases` is part of setting from ohmyzsh
+
+- add this line alias to file `~/.aliases`
+
+`alias git-config="git config --global -e""`
+
+After setup VSC as default editor You can open GIT setting this comand:
+`git config --global -e` or setup alias in  zsh
 
 [Git Doc](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#_basic_client_configuration)
 
