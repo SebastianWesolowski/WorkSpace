@@ -61,7 +61,7 @@ Many Git commands will launch a text editor to prompt for further input. Most fr
 | Notepad (windows) | `~ git config --global core.editor "notepad"`  |
 | Default editor (Mac) | `~ git config --global core.editor "open -W -n"`  |
 | restore setup | `~ git config --global core.editor "emacs"`  |
-| remove setup | `~ git config --global --unset core.editor`  |
+| remove setup | `~ git config --global --unsetcore.editor`  |
 
 
 > file `~/.aliases` is part of setting from ohmyzsh
