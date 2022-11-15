@@ -109,32 +109,10 @@ You can use the ID to download the app by CIL (https://github.com/mas-cli/mas)
 * [Workspaces](https://www.workspacesapp.com/): Workspaces is a productivity app that helps you focus on what matters.
 * [Unclutter](https://unclutterapp.com/):handy place on your desktop
 * [Pocket](https://getpocket.com): Save For Later. Put articles, videos or pretty much anything into Pocket. Save directly from your browser or from apps like Twitter, Flipboard, Pulse and Zite.
+* [Hookmark](https://hookproductivity.com/): przydaje się przy tworzeniu linków do różnych miejsc w systemie i później ich wykorzystaniu w innych aplikacjach
+* [Better touch tool](https://folivora.ai/): BetterTouchTool is a great, feature rich app that allows you to configure many gestures for your Magic Mouse, Magic Trackpad and Apple Keyboard.
 
 ---
-
-### Education
-
-- [Anki](https://apps.ankiweb.net/): - flashcards
-
-### Communication
-
-- [Discord](https://discord.com/): - chat
-- [Microsoft Teams](https://teams.microsoft.com/): - a cloud-based web service containing a set of tools and services for team collaboration.
-- [Slack](https://slack.com/): - Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email.
-- [Zoom](https://zoom.us/): - chat
-
-### Productivity
-
-- [ClickUp](https://clickup.com/): - All of your work in one place: Tasks, Docs, Chat, Goals, & more.
-- [Cron](https://cron.com/): - Cron is the next-generation calendar for professionals and teams.
-- [Endel](https://endel.io/): - Endel is a sleep app that helps you sleep better and wake up refreshed.
-
-### Graphic and Video Apps
-
-- [Affinity Designer](https://affinity.serif.com/en-gb/designer/https://affinity.serif.com/en-gb/designer/): Affinity Designer is an award-winning vector graphics software setting the new industry standard in the world of design.
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/): DaVinci Resolve is the world’s only solution that combines professional 8K editing, color correction, visual effects, and audio post-production all in one software tool!
-- [Figma](https://www.figma.com/): Figma is a vector graphics editor and primarily web-based prototyping tool, with additional offline features enabled by desktop applications for macOS and Windows.
-- [OBS Studio](https://obsproject.com/): OBS Studio is software designed for capturing, compositing, encoding, recording, and streaming video content, efficiently.
 
 ## Develop Tools
 
@@ -172,6 +150,23 @@ You can use the ID to download the app by CIL (https://github.com/mas-cli/mas)
 - [Toggl Track](https://toggl.com/track/): Toggl Track is a time tracking app that helps you understand how you spend your time.
 - [DeepL](https://www.deepl.com/): Translator
 
+## Productivity
+
+- [ClickUp](https://clickup.com/): - All of your work in one place: Tasks, Docs, Chat, Goals, & more.
+- [Cron](https://cron.com/): - Cron is the next-generation calendar for professionals and teams.
+- [Endel](https://endel.io/): - Endel is a sleep app that helps you sleep better and wake up refreshed.
+
+## Communication
+
+- [Discord](https://discord.com/): - chat
+- [Microsoft Teams](https://teams.microsoft.com/): - a cloud-based web service containing a set of tools and services for team collaboration.
+- [Slack](https://slack.com/): - Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email.
+- [Zoom](https://zoom.us/): - chat
+
+## Education
+
+- [Anki](https://apps.ankiweb.net/): - flashcards
+
 ## Office Apps
 
 - [Acrobat DC](https://creativecloud.adobe.com/apps/all/desktop): Adobe Acrobat DC is the completely reimagined desktop version of the world’s best PDF solution.
@@ -179,6 +174,13 @@ You can use the ID to download the app by CIL (https://github.com/mas-cli/mas)
 - [Notion](https://www.notion.so/): A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
 - [Obsidian](https://obsidian.md/): Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
 - [Spark](https://sparkmailapp.com/): Spark is a smart email app for Mac, iPhone and iPad.
+
+## Graphic and Video Apps
+
+- [Affinity Designer](https://affinity.serif.com/en-gb/designer/https://affinity.serif.com/en-gb/designer/): Affinity Designer is an award-winning vector graphics software setting the new industry standard in the world of design.
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/): DaVinci Resolve is the world’s only solution that combines professional 8K editing, color correction, visual effects, and audio post-production all in one software tool!
+- [Figma](https://www.figma.com/): Figma is a vector graphics editor and primarily web-based prototyping tool, with additional offline features enabled by desktop applications for macOS and Windows.
+- [OBS Studio](https://obsproject.com/): OBS Studio is software designed for capturing, compositing, encoding, recording, and streaming video content, efficiently.
 
 ## Fun / Personal app
 
