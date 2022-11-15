@@ -172,7 +172,7 @@ You can use the ID to download the app by CIL (https://github.com/mas-cli/mas)
 - [Toggl Track](https://toggl.com/track/): Toggl Track is a time tracking app that helps you understand how you spend your time.
 - [DeepL](https://www.deepl.com/): Translator
 
-## Office Appsww.notion.s
+## Office Apps
 
 - [Acrobat DC](https://creativecloud.adobe.com/apps/all/desktop): Adobe Acrobat DC is the completely reimagined desktop version of the world’s best PDF solution.
 - [Logseq](https://logseq.com/): A privacy-first, open-source, offline-first, knowledge graph based, extensible, community-driven, desktop-first, cross-platform, free and open-source wiki and knowledge base tool.
