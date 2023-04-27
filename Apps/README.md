@@ -35,6 +35,7 @@ You can use the ID to download the app by CIL (https://github.com/mas-cli/mas)
   - Google Chrome (google-chrome)
   - ImageOptim 2 (imageoptim)
   - iTerm2 (iterm2)
+  - intelliJ IDEA Ultimate (intellij-idea)
   - JetBrains Toolbox (jetbrains-toolbox)
   - Postman
   - RunJS
@@ -50,6 +51,8 @@ You can use the ID to download the app by CIL (https://github.com/mas-cli/mas)
   - DeepL
   - Droplr (droplr)
   - Elgato Control Center (elgato-control-center)
+  - Google Drive (google-drive)
+  - Karabiner-Elements (karabiner-elements)
   - Keka (keka) (470158793)
   - Keyboard Maestro (keyboard-maestro)
   - Logi Options (logi-options)
@@ -123,6 +126,7 @@ You can use the ID to download the app by CIL (https://github.com/mas-cli/mas)
 - [GPG Keychain](https://gpgtools.org/): Encrypt, decrypt tool
 - [Google Chrome](https://www.google.com/intl/en/chrome/browser/): Chrome is a developer friendly browser with powerful development tools built in to it.
 - [ImageOptim 2](https://imageoptim.com/pl): Optymalize image
+- [intelliJ IDEA Ultimate](https://www.jetbrains.com/idea/): IntelliJ IDEA is an integrated development environment written in Java for developing computer software.
 - [iTerm2](https://www.iterm2.com/downloads.html):Better terminal for MacOsX
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/): JetBrains Toolbox is a new application that makes it easier to find, install and manage JetBrains tools.
 - [Postman](https://www.postman.com/): Postman is a collaboration platform for API development.
@@ -139,6 +143,8 @@ You can use the ID to download the app by CIL (https://github.com/mas-cli/mas)
 - [Discord](https://discordapp.com/): Social communication
 - [Droplr](https://droplr.com/): Capture screenshots and uploader - instantly saved to the cloud. Mark up your screenshots: share them instantly. Screencasts: with cam option. Enterprise security with personalization
 - [Elgato Control Center](https://www.elgato.com/en/gaming/downloads): Control Center for Elgato Stream Deck
+- [Google Drive](https://www.google.com/drive/download/): Google Drive is a file storage and synchronization service developed by Google.
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org/): Karabiner-Elements is a powerful utility for keyboard customization.
 - [Keka](https://www.keka.io/pl/): Unarchiver file for mac
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/): Automate repetitive tasks
 - [Logi Options](https://www.logitech.com/en-pl/product/options): Logitech Options is a software that allows you to customize your Logitech mouse and keyboard settings.
