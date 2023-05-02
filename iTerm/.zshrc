@@ -24,6 +24,10 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 source $ZSH/oh-my-zsh.sh
 source $HOME/.aliases
 
+HISTFILE=~/.histfile
+HISTSIZE=1000
+SAVEHIST=1000
+
 # --- NVM
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
