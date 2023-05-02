@@ -18,7 +18,7 @@ plugins=(
 
 # --- Theme
 export ZSH="$HOME/.oh-my-zsh"
-ZSH_THEME=powerlevel10k/powerlevel10k
+ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # --- Source
 source $ZSH/oh-my-zsh.sh
