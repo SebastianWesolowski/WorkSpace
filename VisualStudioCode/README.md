@@ -43,5 +43,7 @@ macOS shell commands
 
 # Keybindings
 
+* Install IntelliJ IDEA Keybinding extension for VSC
+
 ![img.png](img.png)
 ![img_2.png](img_2.png)
