@@ -27,6 +27,7 @@ alias o="cd ~/organization"
 
 # --- Git ----
 alias gc="git commit --allow-empty-message -m '' --no-edit"
+alias gpdev="git push"
 
 # --- dev ---
 alias s="yarn run start:dev"
